@@ -1,0 +1,131 @@
+Williams College,#1,Tuition: $43,190,Enrollment: 2,083,Freshman Retention: 97%,6-year Graduation: 95%
+University of Pennsylvania,#1,Tuition: $42,098,Enrollment: 19,842,Freshman Retention: 98%,6-year Graduation: 96%
+Massachusetts Institute of Technology,#2,Tuition: $40,732,Enrollment: 10,566,Freshman Retention: 98%,6-year Graduation: 93%
+University of California--Berkeley,#3,Tuition: in-state: $11,767, out-of-state: $34,645,Enrollment: 35,838,Freshman Retention: 97%,6-year Graduation: 91%
+University of Michigan--Ann Arbor,#3,Tuition: in-state: $12,590, out-of-state: $37,265,Enrollment: 41,924,Freshman Retention: 96%,6-year Graduation: 90%
+Massachusetts Institute of Technology,#1,Tuition: $40,732,Enrollment: 10,566,Freshman Retention: 98%,6-year Graduation: 93%
+Stanford University,#2,Tuition: $40,569,Enrollment: 19,535,Freshman Retention: 98%,6-year Graduation: 95%
+University of California--Berkeley,#3,Tuition: in-state: $11,767, out-of-state: $34,645,Enrollment: 35,838,Freshman Retention: 97%,6-year Graduation: 91%
+California Institute of Technology,#4,Tuition: $37,704,Enrollment: 2,175,Freshman Retention: 98%,6-year Graduation: 90%
+Georgia Institute of Technology,#5,Tuition: in-state: $9,652, out-of-state: $27,862,Enrollment: 20,720,Freshman Retention: 93%,6-year Graduation: 80%
+Amherst College,#2,Tuition: $42,898,Enrollment: 1,795,Freshman Retention: 98%,6-year Graduation: 94%
+Swarthmore College,#3,Tuition: $41,150,Enrollment: 1,524,Freshman Retention: 97%,6-year Graduation: 93%
+Pomona College,#4,Tuition: $39,883,Enrollment: 1,560,Freshman Retention: 98%,6-year Graduation: 94%
+Middlebury College,#5,Tuition: $53,800 (total tuition/fees/room/board),Enrollment: 2,532,Freshman Retention: 96%,6-year Graduation: 91%
+Bowdoin College,#6,Tuition: $42,816,Enrollment: 1,762,Freshman Retention: 97%,6-year Graduation: 93%
+Carleton College,#6,Tuition: $42,942,Enrollment: 2,020,Freshman Retention: 97%,6-year Graduation: 93%
+Wellesley College,#6,Tuition: $40,660,Enrollment: 2,411,Freshman Retention: 95%,6-year Graduation: 90%
+Claremont McKenna College,#9*,Tuition: $42,240,Enrollment: 1,278,Freshman Retention: 96%,6-year Graduation: 93%
+Haverford College,#10,Tuition: $42,208,Enrollment: 1,177,Freshman Retention: 96%,6-year Graduation: 92%
+Davidson College,#11,Tuition: $38,866,Enrollment: 1,742,Freshman Retention: 96%,6-year Graduation: 91%
+Washington and Lee University,#12,Tuition: $41,927,Enrollment: 2,173,Freshman Retention: 94%,6-year Graduation: 93%
+Wesleyan University,#12,Tuition: $43,674,Enrollment: 3,215,Freshman Retention: 96%,6-year Graduation: 94%
+United States Military Academy,#14,Tuition: N/A,Enrollment: 4,686,Freshman Retention: 92%,6-year Graduation: 86%
+United States Naval Academy,#14,Tuition: in-state: $0, out-of-state: $0,Enrollment: 4,603,Freshman Retention: 97%,6-year Graduation: 89%
+Vassar College,#14,Tuition: $44,705,Enrollment: 2,446,Freshman Retention: 96%,6-year Graduation: 93%
+Hamilton College,#17,Tuition: $42,640,Enrollment: 1,861,Freshman Retention: 95%,6-year Graduation: 88%
+University of Virginia,#5,Tuition: in-state: $11,576, out-of-state: $36,570,Enrollment: 24,391,Freshman Retention: 97%,6-year Graduation: 93%
+New York University,#6,Tuition: $41,606,Enrollment: 43,797,Freshman Retention: 92%,6-year Graduation: 85%
+University of North Carolina--Chapel Hill,#6,Tuition: in-state: $7,008, out-of-state: $26,834,Enrollment: 29,390,Freshman Retention: 97%,6-year Graduation: 90%
+University of Texas--Austin,#6,Tuition: in-state: $9,794, out-of-state: $32,506,Enrollment: 51,195,Freshman Retention: 92%,6-year Graduation: 81%
+Carnegie Mellon University,#9,Tuition: $43,396,Enrollment: 11,618,Freshman Retention: 95%,6-year Graduation: 86%
+Cornell University,#9,Tuition: $41,541,Enrollment: 20,939,Freshman Retention: 96%,6-year Graduation: 93%
+University of Southern California,#9,Tuition: $42,818,Enrollment: 36,896,Freshman Retention: 97%,6-year Graduation: 89%
+University of Illinois--Urbana-Champaign,#6,Tuition: in-state: $13,558, out-of-state: $27,700,Enrollment: 43,862,Freshman Retention: 94%,6-year Graduation: 84%
+University of Michigan--Ann Arbor,#6,Tuition: in-state: $12,590, out-of-state: $37,265,Enrollment: 41,924,Freshman Retention: 96%,6-year Graduation: 90%
+Carnegie Mellon University,#8,Tuition: $43,396,Enrollment: 11,618,Freshman Retention: 95%,6-year Graduation: 86%
+Cornell University,#9,Tuition: $41,541,Enrollment: 20,939,Freshman Retention: 96%,6-year Graduation: 93%
+Purdue University--West Lafayette,#9,Tuition: in-state: $9,478, out-of-state: $27,646,Enrollment: 39,726,Freshman Retention: 87%,6-year Graduation: 69%
+Harvey Mudd College,#18,Tuition: $42,410,Enrollment: 773,Freshman Retention: 98%,6-year Graduation: 87%
+Grinnell College,#19,Tuition: $39,810,Enrollment: 1,655,Freshman Retention: 94%,6-year Graduation: 87%
+Smith College,#19,Tuition: $40,070,Enrollment: 3,113,Freshman Retention: 91%,6-year Graduation: 83%
+Bates College,#21,Tuition: $55,300 (total tuition/fees/room/board),Enrollment: 1,725,Freshman Retention: 94%,6-year Graduation: 88%
+Colby College,#21,Tuition: $53,800 (total tuition/fees/room/board),Enrollment: 1,825,Freshman Retention: 95%,6-year Graduation: 90%
+Colgate University,#21,Tuition: $42,920,Enrollment: 2,903,Freshman Retention: 94%,6-year Graduation: 88%
+Oberlin College,#24,Tuition: $43,210,Enrollment: 2,974,Freshman Retention: 94%,6-year Graduation: 87%
+Bryn Mawr College,#25,Tuition: $40,824,Enrollment: 1,755,Freshman Retention: 93%,6-year Graduation: 87%
+Harvard University,#1,Tuition: $39,849,Enrollment: 19,627,Freshman Retention: 97%,6-year Graduation: 97%
+Princeton University,#1,Tuition: $37,000,Enrollment: 7,802,Freshman Retention: 98%,6-year Graduation: 96%
+Yale University,#3,Tuition: $40,500,Enrollment: 11,701,Freshman Retention: 99%,6-year Graduation: 96%
+Columbia University,#4,Tuition: $45,290,Enrollment: 22,283,Freshman Retention: 99%,6-year Graduation: 96%
+California Institute of Technology,#5,Tuition: $37,704,Enrollment: 2,175,Freshman Retention: 98%,6-year Graduation: 90%
+Massachusetts Institute of Technology,#5,Tuition: $40,732,Enrollment: 10,566,Freshman Retention: 98%,6-year Graduation: 93%
+Stanford University,#5,Tuition: $40,569,Enrollment: 19,535,Freshman Retention: 98%,6-year Graduation: 95%
+University of Chicago,#5,Tuition: $42,783,Enrollment: 12,781,Freshman Retention: 98%,6-year Graduation: 92%
+University of Pennsylvania,#5,Tuition: $42,098,Enrollment: 19,842,Freshman Retention: 98%,6-year Graduation: 96%
+Duke University,#10,Tuition: $41,958,Enrollment: 14,983,Freshman Retention: 97%,6-year Graduation: 94%
+Dartmouth College,#11,Tuition: $42,996,Enrollment: 6,141,Freshman Retention: 98%,6-year Graduation: 95%
+Northwestern University,#12,Tuition: $41,983,Enrollment: 19,389,Freshman Retention: 97%,6-year Graduation: 94%
+Johns Hopkins University,#13,Tuition: $42,280,Enrollment: 21,092,Freshman Retention: 97%,6-year Graduation: 92%
+Washington University in St. Louis,#14,Tuition: $41,992,Enrollment: 13,820,Freshman Retention: 97%,6-year Graduation: 94%
+Brown University,#15,Tuition: $42,230,Enrollment: 8,695,Freshman Retention: 98%,6-year Graduation: 96%
+Cornell University,#15,Tuition: $41,541,Enrollment: 20,939,Freshman Retention: 96%,6-year Graduation: 93%
+Rice University,#17,Tuition: $35,551,Enrollment: 5,879,Freshman Retention: 97%,6-year Graduation: 92%
+Vanderbilt University,#17,Tuition: $41,332,Enrollment: 12,714,Freshman Retention: 97%,6-year Graduation: 91%
+University of Notre Dame,#19,Tuition: $41,417,Enrollment: 11,992,Freshman Retention: 98%,6-year Graduation: 96%
+Emory University,#20,Tuition: $41,164,Enrollment: 13,381,Freshman Retention: 95%,6-year Graduation: 89%
+University of California--Berkeley,#21,Tuition: in-state: $11,767, out-of-state: $34,645,Enrollment: 35,838,Freshman Retention: 97%,6-year Graduation: 91%
+Harvey Mudd College,#1,Tuition: $42,410,Enrollment: 773,Freshman Retention: 98%,6-year Graduation: 87%
+Rose-Hulman Institute of Technology,#1,Tuition: $37,947,Enrollment: 1,980,Freshman Retention: 90%,6-year Graduation: 81%
+United States Military Academy,#3,Tuition: N/A,Enrollment: 4,686,Freshman Retention: 92%,6-year Graduation: 86%
+Cooper Union,#4,Tuition: $39,150,Enrollment: 1,000,Freshman Retention: 94%,6-year Graduation: 86%
+Georgetown University,#22,Tuition: $41,393,Enrollment: 16,871,Freshman Retention: 96%,6-year Graduation: 93%
+Carnegie Mellon University,#23,Tuition: $43,396,Enrollment: 11,618,Freshman Retention: 95%,6-year Graduation: 86%
+University of Southern California,#23,Tuition: $42,818,Enrollment: 36,896,Freshman Retention: 97%,6-year Graduation: 89%
+University of California--Los Angeles,#25,Tuition: in-state: $11,604, out-of-state: $34,482,Enrollment: 39,593,Freshman Retention: 97%,6-year Graduation: 90%
+California Polytechnic State University--San Luis Obispo,#5,Tuition: in-state: $7,921, out-of-state: $19,081,Enrollment: 18,360,Freshman Retention: 90%,6-year Graduation: 73%
+United States Air Force Academy,#5,Tuition: N/A,Enrollment: 4,619,Freshman Retention: 88%,6-year Graduation: 81%
+United States Naval Academy,#5,Tuition: in-state: $0, out-of-state: $0,Enrollment: 4,603,Freshman Retention: 97%,6-year Graduation: 89%
+Franklin W. Olin College of Engineering,#8,Tuition: $39,450,Enrollment: 346,Freshman Retention: 97%,6-year Graduation: 91%
+Bucknell University,#9,Tuition: $43,866,Enrollment: 3,615,Freshman Retention: 94%,6-year Graduation: 91%
+Villanova University,#10,Tuition: $41,260,Enrollment: 10,635,Freshman Retention: 95%,6-year Graduation: 89%
+Macalester College,#25,Tuition: $42,021,Enrollment: 2,033,Freshman Retention: 94%,6-year Graduation: 88%
+Colorado College,#27,Tuition: $39,900,Enrollment: 2,091,Freshman Retention: 95%,6-year Graduation: 87%
+University of Richmond,#27,Tuition: $43,170,Enrollment: 3,618,Freshman Retention: 92%,6-year Graduation: 87%
+Bucknell University,#29,Tuition: $43,866,Enrollment: 3,615,Freshman Retention: 94%,6-year Graduation: 91%
+College of the Holy Cross,#29,Tuition: $41,488,Enrollment: 2,899,Freshman Retention: 95%,6-year Graduation: 93%
+Mount Holyoke College,#29,Tuition: $41,456,Enrollment: 2,345,Freshman Retention: 92%,6-year Graduation: 82%
+Scripps College,#29,Tuition: $41,950,Enrollment: 965,Freshman Retention: 94%,6-year Graduation: 82%
+Barnard College,#33,Tuition: $42,184,Enrollment: 2,456,Freshman Retention: 94%,6-year Graduation: 87%
+Kenyon College,#33,Tuition: $42,630,Enrollment: 1,632,Freshman Retention: 93%,6-year Graduation: 86%
+Sewanee--University of the South,#33,Tuition: $32,292,Enrollment: 1,536,Freshman Retention: 88%,6-year Graduation: 81%
+United States Air Force Academy,#33,Tuition: N/A,Enrollment: 4,619,Freshman Retention: 88%,6-year Graduation: 81%
+Connecticut College,#37,Tuition: $43,990,Enrollment: 1,887,Freshman Retention: 90%,6-year Graduation: 87%
+Occidental College,#37,Tuition: $42,960,Enrollment: 2,102,Freshman Retention: 93%,6-year Graduation: 85%
+Trinity College,#37,Tuition: $44,070,Enrollment: 2,439,Freshman Retention: 91%,6-year Graduation: 86%
+Lafayette College,#40,Tuition: $40,658,Enrollment: 2,414,Freshman Retention: 95%,6-year Graduation: 89%
+Union College,#40,Tuition: $54,273 (total tuition/fees/room/board),Enrollment: 2,197,Freshman Retention: 92%,6-year Graduation: 83%
+Centre College,#42,Tuition: $34,000,Enrollment: 1,242,Freshman Retention: 92%,6-year Graduation: 86%
+Franklin and Marshall College,#42,Tuition: $42,610,Enrollment: 2,335,Freshman Retention: 93%,6-year Graduation: 87%
+Furman University,#42,Tuition: $39,560,Enrollment: 2,996,Freshman Retention: 91%,6-year Graduation: 84%
+Pitzer College,#42,Tuition: $42,570,Enrollment: 1,080,Freshman Retention: 92%,6-year Graduation: 79%
+Whitman College,#42,Tuition: $40,492,Enrollment: 1,555,Freshman Retention: 93%,6-year Graduation: 85%
+Dickinson College,#47,Tuition: $43,060,Enrollment: 2,414,Freshman Retention: 91%,6-year Graduation: 83%
+Gettysburg College,#47,Tuition: $42,610,Enrollment: 2,485,Freshman Retention: 91%,6-year Graduation: 85%
+Denison University,#49,Tuition: $40,210,Enrollment: 2,275,Freshman Retention: 90%,6-year Graduation: 83%
+Skidmore College,#49,Tuition: $42,380,Enrollment: 2,783,Freshman Retention: 94%,6-year Graduation: 84%
+University of Virginia,#25,Tuition: in-state: $11,576, out-of-state: $36,570,Enrollment: 24,391,Freshman Retention: 97%,6-year Graduation: 93%
+Wake Forest University,#25,Tuition: $41,576,Enrollment: 7,162,Freshman Retention: 94%,6-year Graduation: 89%
+University of Michigan--Ann Arbor,#28,Tuition: in-state: $12,590, out-of-state: $37,265,Enrollment: 41,924,Freshman Retention: 96%,6-year Graduation: 90%
+Tufts University,#29,Tuition: $42,962,Enrollment: 10,480,Freshman Retention: 97%,6-year Graduation: 91%
+University of North Carolina--Chapel Hill,#29,Tuition: in-state: $7,008, out-of-state: $26,834,Enrollment: 29,390,Freshman Retention: 97%,6-year Graduation: 90%
+Boston College,#31,Tuition: $42,204,Enrollment: 14,015,Freshman Retention: 96%,6-year Graduation: 91%
+Brandeis University,#31,Tuition: $41,860,Enrollment: 5,642,Freshman Retention: 93%,6-year Graduation: 91%
+College of William and Mary,#33,Tuition: in-state: $13,132, out-of-state: $35,409,Enrollment: 8,000,Freshman Retention: 95%,6-year Graduation: 90%
+New York University,#33,Tuition: $41,606,Enrollment: 43,797,Freshman Retention: 92%,6-year Graduation: 85%
+University of Rochester,#35,Tuition: $41,826,Enrollment: 10,111,Freshman Retention: 96%,6-year Graduation: 84%
+Georgia Institute of Technology,#36,Tuition: in-state: $9,652, out-of-state: $27,862,Enrollment: 20,720,Freshman Retention: 93%,6-year Graduation: 80%
+University of California--San Diego,#37,Tuition: in-state: $12,128, out-of-state: $35,006,Enrollment: 29,176,Freshman Retention: 95%,6-year Graduation: 86%
+Case Western Reserve University,#38,Tuition: $39,120,Enrollment: 9,837,Freshman Retention: 92%,6-year Graduation: 82%
+Lehigh University,#38,Tuition: $40,960,Enrollment: 7,051,Freshman Retention: 94%,6-year Graduation: 88%
+University of California--Davis,#38,Tuition: in-state: $12,794, out-of-state: $35,672,Enrollment: 31,392,Freshman Retention: 91%,6-year Graduation: 84%
+University of Miami,#38,Tuition: $39,654,Enrollment: 15,657,Freshman Retention: 90%,6-year Graduation: 80%
+University of California--Santa Barbara,#42,Tuition: in-state: $12,508, out-of-state: $35,386,Enrollment: 22,218,Freshman Retention: 91%,6-year Graduation: 85%
+University of Washington,#42,Tuition: in-state: $10,574, out-of-state: $28,058,Enrollment: 42,446,Freshman Retention: 93%,6-year Graduation: 80%
+University of Wisconsin--Madison,#42,Tuition: in-state: $9,671, out-of-state: $25,421,Enrollment: 42,595,Freshman Retention: 94%,6-year Graduation: 84%
+Pennsylvania State University--University Park,#45,Tuition: in-state: $15,984, out-of-state: $28,066,Enrollment: 45,233,Freshman Retention: 93%,6-year Graduation: 85%
+University of California--Irvine,#45,Tuition: in-state: $12,902, out-of-state: $35,780,Enrollment: 26,994,Freshman Retention: 94%,6-year Graduation: 83%
+University of Illinois--Urbana-Champaign,#45,Tuition: in-state: $13,558, out-of-state: $27,700,Enrollment: 43,862,Freshman Retention: 94%,6-year Graduation: 84%
+University of Texas--Austin,#45,Tuition: in-state: $9,794, out-of-state: $32,506,Enrollment: 51,195,Freshman Retention: 92%,6-year Graduation: 81%
+Yeshiva University,#45,Tuition: $35,150,Enrollment: 6,445,Freshman Retention: 91%,6-year Graduation: 82%
+George Washington University,#50,Tuition: $42,425,Enrollment: 25,135,Freshman Retention: 92%,6-year Graduation: 81%
