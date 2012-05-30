@@ -9,3 +9,8 @@ class RatemyprofessorItem(Item):
     name=Field()
     city=Field()
     region=Field()
+
+class RatemyprofessorinItem(Item):
+	name=Field()
+	avg=Field()
+	tot=Field()

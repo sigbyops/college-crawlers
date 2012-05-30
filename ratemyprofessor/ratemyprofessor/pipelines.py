@@ -1,3 +1,6 @@
+from ratemyprofessor.items import RatemyprofessorItem
+from ratemyprofessor.items import RatemyprofessorinItem
+
 # pipeline spider output to a text file
 class FilePipeline(object):
 
@@ -5,6 +8,11 @@ class FilePipeline(object):
         self.file = open('schools.txt', 'wb')
 
     def process_item(self, item, spider):
-        line = item['name'].strip() + ', ' + item['city'].strip() + ', ' + item['region'].strip() + '\n'
-        self.file.write(line)
-        return item
+		if isinstance(item, RatemyprofessorItem):
+			line = item['name'].strip() + ', ' + item['city'].strip() + ', ' + item['region'].strip() + '\n'
+			self.file.write(line)
+			return item
+		if isinstance(item, RatemyprofessorinItem):
+			line = item['name'][0].strip() + ', ' + 'Avg: ' + item['avg'][0].strip() + ', ' + 'Total #: ' + item['tot'][0].strip() + '\n'
+			self.file.write(line)
+			return item
