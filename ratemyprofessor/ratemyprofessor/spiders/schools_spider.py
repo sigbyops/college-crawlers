@@ -44,7 +44,6 @@ class SchoolsSpider(BaseSpider):
 			item['name']=names[i]
 			item['city']=cities[i]
 			item['region']=regions[i]
-			
 			namesurl = (response.url)[:(response.url).rfind('/',0,len(response.url))+1]+nameslinks[i]
 			yield Request(namesurl, callback=self.parse_page)
 
@@ -60,7 +59,7 @@ class SchoolsSpider(BaseSpider):
 				nextpage = x.select("//a[(((count(preceding-sibling::*) + 1) = 12) and parent::*)]/@href").extract()
 			# save the next page link
 			nextpagelink = (response.url)[:(response.url).rfind('/',0,len(response.url))+1]+nextpage[0]
-		
+			print nextpagelink
 			# yield a new request for the next page link
 			yield Request(nextpagelink, callback=self.parse)
 		

@@ -1,4 +1,5 @@
 from usnbestcolleges.items import UsnbestcollegesItem
+from pysqlite2 import dbapi2 as sqlite
 
 # pipeline spider output to a text file
 class FilePipeline(object):
