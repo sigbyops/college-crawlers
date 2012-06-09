@@ -25,7 +25,7 @@ class SQLitePipeline(object):
 	
 	# this pipeline takes the Item and stuffs it into ratings.sqlite
 	def __init__(self):
-		self.connection = sqlite.connect('./ratings.sqlite')
+		self.connection = sqlite3.connect('./ratings.sqlite3')
 		self.cursor = self.connection.cursor()
 		self.cursor.execute('CREATE TABLE ratings(name TEXT, avg REAL, total INTEGER )')
 
