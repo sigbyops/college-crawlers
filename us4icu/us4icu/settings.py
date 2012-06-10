@@ -13,4 +13,5 @@ SPIDER_MODULES = ['us4icu.spiders']
 NEWSPIDER_MODULE = 'us4icu.spiders'
 USER_AGENT = '%s/%s' % (BOT_NAME, BOT_VERSION)
 
-ITEM_PIPELINES = ['us4icu.pipelines.SQLitePipeline']
+#ITEM_PIPELINES = ['us4icu.pipelines.SQLitePipeline']
+ITEM_PIPELINES = ['us4icu.pipelines.FilePipeline']

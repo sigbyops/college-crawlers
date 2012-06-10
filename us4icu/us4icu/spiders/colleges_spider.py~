@@ -18,6 +18,7 @@ class CollegesSpider(CrawlSpider):
 		# instantiate item
 		item = Us4IcuItem()
 		
+		# use xpath to store arrays of fields
 		names = x.select('//*[contains(concat( " ", @class, " " ), concat( " ", "i", " " ))]//a/text()').extract()
 		cities = x.select('//td[(((count(preceding-sibling::*) + 1) = 2) and parent::*)]//h6/text()').extract()
 		
@@ -30,8 +31,5 @@ class CollegesSpider(CrawlSpider):
 				item['city'] = city[:city.rfind('...')]
 			else:
 				item['city'] = city
-			print item['name']
-			print item['city']
-			print item['state']
 			yield item
 

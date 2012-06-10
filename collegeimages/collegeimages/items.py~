@@ -1,0 +1,13 @@
+# Define here the models for your scraped items
+#
+# See documentation in:
+# http://doc.scrapy.org/topics/items.html
+
+from scrapy.item import Item, Field
+
+class CollegeimagesItem(Item):
+   image_urls = Field()
+   #images = Field()
+   name = Field()
+   #image_paths = Field()
+   link = Field()

@@ -31,8 +31,5 @@ class CollegesSpider(CrawlSpider):
 				item['city'] = city[:city.rfind('...')]
 			else:
 				item['city'] = city
-			print item['name']
-			print item['city']
-			print item['state']
 			yield item
 

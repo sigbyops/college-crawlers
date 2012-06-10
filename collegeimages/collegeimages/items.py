@@ -6,6 +6,8 @@
 from scrapy.item import Item, Field
 
 class CollegeimagesItem(Item):
-    # define the fields for your item here like:
-    # name = Field()
-    pass
+   image_urls = Field()
+   #images = Field()
+   name = Field()
+   #image_paths = Field()
+   links = Field()

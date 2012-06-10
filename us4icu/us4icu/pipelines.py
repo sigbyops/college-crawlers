@@ -27,3 +27,15 @@ class SQLitePipeline(object):
 	
 	def handle_error(self, e):
 		log.err(e)
+		
+# pipeline spider output to a text file
+class FilePipeline(object):
+
+	def __init__(self):
+		self.file = open('colleges.txt', 'wb')
+
+	def process_item(self, item, spider):
+		line = item['name'].strip().replace(' ', '+') + '\n'
+		self.file.write(line)
+		return item
+			
